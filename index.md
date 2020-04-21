@@ -36,7 +36,7 @@ My greatest irk about their web application is their lack of search functionalit
 
 Their redeeming grace is that they have a watchlist which can help you add funds for quick access and compare funds.
 
-<img src="/images/watchList.PNG" alt="">
+![](/images/watchList.PNG)
 
 You can customise what parameters you look at in your watch list and compare funds pages.
 
@@ -53,22 +53,22 @@ From there, you can add to your shopping cart. It is a 4 step process.
 
 Step 1: Enter amount
 
-<img src="/images/stepone.PNG" alt="">
+![](/images/stepone.PNG)
 
 
 Step 2: Select account
 
-<img src="/images/steptwo.PNG" alt="">
+![](/images/steptwo.PNG)
 
 
 Step 3: Payment method
 
-<img src="/images/stepthree.PNG" alt="">
+![](/images/stepthree.PNG)
 
 
 Step 4: Confirmation
 
-<img src="/images/stepfour.PNG" alt="">
+![](/images/stepfour.PNG)
 
 
-After that they will give you details of payment to be made and send you an email. It is important to note that they will only transact the unit after payment. Hence, the fund may be more expensive or cheaper than expected.
+After that, they will give you details of payment to be made and send you an email. It is important to note that they will only transact the unit after payment. Hence, the fund may be more expensive or cheaper than expected.
