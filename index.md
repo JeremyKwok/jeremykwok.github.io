@@ -1,10 +1,10 @@
 # Unit Trust Investing
 ## Why
-I have recently picked up investing using Unit Trusts because I feel like I don't have enough time to monitor my own personal investments and do not have sufficient capital to play with many stocks. In short,
+I have recently picked up investing using [Unit Trusts](https://www.investopedia.com/terms/u/unittrust.asp) because I feel like I don't have enough time to monitor my own personal investments and do not have sufficient capital to play with many stocks. In short,
 * Diversify portfolio at low cost
 * Do not need to monitor portfolio often
 
-A popular alternative is roboinvestors. However, they tend to 
+A popular alternative is [roboinvestors](https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp). However, they tend to 
 * only rebalance quarterly
 * higher fees
 * smaller assets under management which make them more risky
