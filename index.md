@@ -46,20 +46,21 @@ We would believe that since the transaction data is stored in a database, you wo
 
 ## Buying a fund
 Notably, DollarDex also provides Fund Rankings, allowing novince investors an easy way to invest in historically well performing funds.
-![Image of fundRanking](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/FundRanking.PNG)
+
+<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/FundRanking.PNG" alt="">
 
 From there, you can add to your shopping cart. It is a 4 step process.
 
 Step 1: Enter amount
-![Image of stepone](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepone.PNG)
+<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepone.PNG" alt="">
 
 Step 2: Select account
-![Image of steptwo](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/steptwo.PNG)
+<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/steptwo.PNG" alt="">
 
 Step 3: Payment method
-![Image of stepthree](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepthree.PNG)
+<img src="/images/stepthree.PNG" alt="">
 
 Step 4: Confirmation
-![Image of stepfour](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepfour.PNG)
+<img src="images/stepfour.PNG" alt="">
 
 After that they will give you details of payment to be made and send you an email. It is important to note that they will only transact the unit after payment. Hence, the fund may be more expensive or cheaper than expected.
