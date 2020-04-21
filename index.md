@@ -1,10 +1,13 @@
 # Unit Trust Investing
 ## Why
 I have recently picked up investing using Unit Trusts because I feel like I don't have enough time to monitor my own personal investments and do not have sufficient capital to play with many stocks. In short,
-. Diversify portfolio at low cost
-. Do not need to monitor portfolio often
+* Diversify portfolio at low cost
+* Do not need to monitor portfolio often
 
-A popular alternative is roboinvestors. However, they tend to only rebalance quarterly, have higher fees and have smaller assets under management which make them more risky.
+A popular alternative is roboinvestors. However, they tend to 
+* only rebalance quarterly
+* higher fees
+* smaller assets under management which make them more risky
 
 ## How
 If we look at unit trusts there are a few options avaliable. 3 of the most popular platforms are [POEMS](https://www.poems.com.sg/), [FSM](https://secure.fundsupermart.com/fsm/home) and [DollarDex](https://www.dollardex.com/sgn/).
