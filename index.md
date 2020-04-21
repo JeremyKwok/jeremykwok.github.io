@@ -30,13 +30,13 @@ Overall, it is very long because of their due dilligence which can be good or ba
 
 ## Searching for funds
 
-![Image of searchPage](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/searchFunds.PNG)
+<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/searchFunds.PNG" alt="">
 
 My greatest irk about their web application is their lack of search functionality. They pride themselves on being able to filter funds down based on what the customer wants. This means they can seperate based on the type of the funds, CPF approved, sector etc. This is great if you don't know what you are looking for except for the fact that individuals who don't know what they are looking for usually may not know how exactly the market classifies a fund. Sometimes a fund may not be classified accurately anyway. A search field is the most basic functionality we would expect nowadays. Even if it is too dificult to include, one that works for ISIN/ Bloomberg tickers should be simple.
 
 Their redeeming grace is that they have a watchlist which can help you add funds for quick access and compare funds.
 
-image: https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/watchList.PNG
+<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/watchList.PNG" alt="">
 
 You can customise what parameters you look at in your watch list and compare funds pages.
 
