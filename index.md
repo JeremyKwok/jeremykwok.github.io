@@ -8,6 +8,7 @@ A popular alternative is roboinvestors. However, they tend to only rebalance qua
 
 ## How
 If we look at unit trusts there are a few options avaliable. 3 of the most popular platforms are [POEMS](https://www.poems.com.sg/), [FSM](https://secure.fundsupermart.com/fsm/home) and [DollarDex](https://www.dollardex.com/sgn/).
+
 | Platforms  | Platform Fees | Mobile Application  | Web Application  |
 | ------------- | ------------- | ------------- | ------------- |
 | DollarDex  | No  | No  | Yes  |
