@@ -30,13 +30,13 @@ Overall, it is very long because of their due dilligence which can be good or ba
 
 ## Searching for funds
 
-<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/searchFunds.PNG" alt="">
+![](/images/searchFunds.PNG)
 
 My greatest irk about their web application is their lack of search functionality. They pride themselves on being able to filter funds down based on what the customer wants. This means they can seperate based on the type of the funds, CPF approved, sector etc. This is great if you don't know what you are looking for except for the fact that individuals who don't know what they are looking for usually may not know how exactly the market classifies a fund. Sometimes a fund may not be classified accurately anyway. A search field is the most basic functionality we would expect nowadays. Even if it is too dificult to include, one that works for ISIN/ Bloomberg tickers should be simple.
 
 Their redeeming grace is that they have a watchlist which can help you add funds for quick access and compare funds.
 
-<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/watchList.PNG" alt="">
+<img src="/images/watchList.PNG" alt="">
 
 You can customise what parameters you look at in your watch list and compare funds pages.
 
@@ -52,15 +52,23 @@ Notably, DollarDex also provides Fund Rankings, allowing novince investors an ea
 From there, you can add to your shopping cart. It is a 4 step process.
 
 Step 1: Enter amount
-<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepone.PNG" alt="">
+
+<img src="/images/stepone.PNG" alt="">
+
 
 Step 2: Select account
-<img src="https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/steptwo.PNG" alt="">
+
+<img src="/images/steptwo.PNG" alt="">
+
 
 Step 3: Payment method
+
 <img src="/images/stepthree.PNG" alt="">
 
+
 Step 4: Confirmation
-<img src="images/stepfour.PNG" alt="">
+
+<img src="/images/stepfour.PNG" alt="">
+
 
 After that they will give you details of payment to be made and send you an email. It is important to note that they will only transact the unit after payment. Hence, the fund may be more expensive or cheaper than expected.
