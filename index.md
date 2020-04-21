@@ -19,12 +19,12 @@ I chose DollarDex in the end because I felt their web interface was pretty good 
 
 ## Sign up
 Signing up with DollarDex can be done from their website and will require:
-. NRIC
-. bank account details and statement
-. Proof you know how to invest
-.. Diploma/Degree (Finance/Business related)
-.. Have done past investment
-. Risk appetite
+* NRIC
+* bank account details and statement
+* Proof you know how to invest
+  * Diploma/Degree (Finance/Business related)
+  * Have done past investment
+* Risk appetite
 
 Overall, it is very long because of their due dilligence which can be good or bad.
 
