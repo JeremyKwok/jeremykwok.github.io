@@ -43,4 +43,18 @@ We would believe that since the transaction data is stored in a database, you wo
 Notably, DollarDex also provides Fund Rankings, allowing novince investors an easy way to invest in historically well performing funds.
 ![Image of fundRanking](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/FundRanking.PNG)
 
-From there, you can add to your shopping cart.
+From there, you can add to your shopping cart. It is a 4 step process.
+
+Step 1: Enter amount
+![Image of stepone](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepone.PNG)
+
+Step 2: Select account
+![Image of steptwo](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/steptwo.PNG)
+
+Step 3: Payment method
+![Image of stepthree](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepthree.PNG)
+
+Step 4: Confirmation
+![Image of stepfour](https://github.com/JeremyKwok/jeremykwok.github.io/blob/master/images/stepfour.PNG)
+
+After that they will give you details of payment to be made and send you an email. It is important to note that they will only transact the unit after payment. Hence, the fund may be more expensive or cheaper than expected.
