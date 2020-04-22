@@ -25,7 +25,7 @@ It is important to compare brokerage fees as well, please see [trading fees](htt
 ---
 
 ### Types
-When I invest in stocks, I usually place them in self-created categories
+When I invest in stocks, I usually place them in self-established categories.
 * Blue Chip
   * An example would be something stable and dividend producing like Coca Cola [$NYSE: KO](https://www.google.com/search?q=NYSE:+VEEV).
 * High Growth (Tech)
