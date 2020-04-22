@@ -37,4 +37,5 @@ When I invest in stocks, I usually place them in self-created categories
 * Diversity
   * I will put Healthcare stocks, Food Stocks and other prominent stocks here.
   * Example: Intuitive Surgical [$NASDAQ: ISRG](https://www.google.com/search?q=NASDAQ:+ISRG) or Veeva Systems [$NYSE: VEEV](https://www.google.com/search?q=NYSE:+VEEV) or Beyond Meat Inc [$NASDAQ: BYND](https://www.google.com/search?q=NASDAQ:+BYND).
-
+* Large Tech
+  * Example: FAANG stocks, Microsoft Corporation [$NASDAQ: MSFT](https://www.google.com/search?q=NASDAQ:+MSFT).
