@@ -27,14 +27,14 @@ It is important to compare brokerage fees as well, please see [trading fees](htt
 ### Types
 When I invest in stocks, I usually place them in self-created categories
 * Blue Chip
-  * An example would be something stable and dividend producing like Coca Cola $NYSE: KO.
+  * An example would be something stable and dividend producing like Coca Cola [$NYSE: KO](https://www.google.com/search?q=NYSE:+VEEV).
 * High Growth (Tech)
   * This category will be for innovators and disrupters which I feel have high growth potential.
-  * An example would be Docusign $NASDAQ: DOCU.
-  * I would also include large cap stocks which I think still can grow far such as Tencent $HKG: 0700 or Mercado Libre $NASDAQ: MELI.
+  * An example would be Docusign [$NASDAQ: DOCU](https://www.google.com/search?q=NASDAQ:+DOCU).
+  * I would also include large cap stocks which I think still can grow far such as Tencent [$HKG: 0700](https://www.google.com/search?q=HKG:+0700) or Mercado Libre [$NASDAQ: MELI](https://www.google.com/search?q=NASDAQ:+MELI).
 * Too risky
   * An example is
 * Diversity
   * I will put Healthcare stocks, Food Stocks and other prominent stocks here.
-  * Example: Intuitive Surgical $NASDAQ: ISRG or Veeva Systems $NYSE: VEEV or Beyond Meat Inc $NASDAQ: BYND.
+  * Example: Intuitive Surgical [$NASDAQ: ISRG](https://www.google.com/search?q=NASDAQ:+ISRG) or Veeva Systems [$NYSE: VEEV](https://www.google.com/search?q=NYSE:+VEEV) or Beyond Meat Inc [$NASDAQ: BYND](https://www.google.com/search?q=NASDAQ:+BYND).
 
