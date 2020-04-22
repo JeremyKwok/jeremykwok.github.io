@@ -23,3 +23,18 @@ Get started using this [guide](https://dollarsandsense.sg/step-step-guide-stock-
 It is important to compare brokerage fees as well, please see [trading fees](https://blog.seedly.sg/the-ultimate-cheatsheet-cheapest-stock-brokerage-in-singapore/) by seedly. Always double check with the Stock Brokerage platforms.
 
 ---
+
+### Types
+When I invest in stocks, I usually place them in self-created categories
+* Blue Chip
+  * An example would be something stable and dividend producing like Coca Cola $NYSE: KO.
+* High Growth (Tech)
+  * This category will be for innovators and disrupters which I feel have high growth potential.
+  * An example would be Docusign $NASDAQ: DOCU.
+  * I would also include large cap stocks which I think still can grow far such as Tencent $HKG: 0700 or Mercado Libre $NASDAQ: MELI.
+* Too risky
+  * An example is
+* Diversity
+  * I will put Healthcare stocks, Food Stocks and other prominent stocks here.
+  * Example: Intuitive Surgical $NASDAQ: ISRG or Veeva Systems $NYSE: VEEV or Beyond Meat Inc $NASDAQ: BYND.
+
