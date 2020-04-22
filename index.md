@@ -9,6 +9,8 @@ A popular alternative is [roboinvestors](https://www.investopedia.com/terms/r/ro
 * higher fees
 * smaller assets under management which make them more risky
 
+See other [alternatives](/InvestmentOptions.md).
+
 ## How
 If we look at unit trusts there are a few options avaliable. 3 of the most popular platforms are [POEMS](https://www.poems.com.sg/), [FSM](https://secure.fundsupermart.com/fsm/home) and [DollarDex](https://www.dollardex.com/sgn/).
 
