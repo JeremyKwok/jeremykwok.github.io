@@ -41,13 +41,13 @@ eth.getBalance(eth.accounts[0])
   
   <details>
     <summary>What is a testnet?</summary>
-  
+
     A Testnet is an Ethereum blockchain that uses identical technology and software as the “Mainnet” Ethereum blockchain. However, whereas the Mainnet network is used for “actual” transactions with “value”, Testnets are used for testing smart contracts and decentralized applications (“DApps”).
   </details>
-  
+
   <details>
     <summary>Differences with mainnet?</summary>
-  
+
     Blockchains are simply databases created by a network of computers that interact with each other, using purposefully designed software to get the computers on that network to agree (i.e. achieve “consensus”) on what data to add and store on the database. The only difference between Testnets and Mainnet is that they are operated by different networks; i.e. one group of computers has agreed to work with each other and form a Testnet network, while another group of computers has agreed to work together to serve as the Mainnet network.
     In order for a network of computers to agree to “work with each other”, they must agree on two parameters which uniquely identify each network:
     A network ID: 
@@ -55,12 +55,13 @@ eth.getBalance(eth.accounts[0])
     Genesis block: 
         all computers on a network must agree to all the data stored on that blockchain, which of course must begin somewhere: the genesis block. The genesis block is block #1 of a network’s blockchain; it is just arbitrary data that has been designated as the beginning of that blockchain.
   </details>
+  
   Read more from [here](https://medium.com/hummingbot/finance-3-0-wiki-testnet-vs-mainnet-8ab5b78d93)
 </details>
 
 <details>
   <summary>Proof of Authority?</summary>
   
-    Proof of authority (PoA) is an algorithm used with blockchains that delivers comparatively fast transactions through a consensus mechanism based on identity as a stake.
+  Proof of authority (PoA) is an algorithm used with blockchains that delivers comparatively fast transactions through a consensus mechanism based on identity as a stake.
     [https://en.wikipedia.org/wiki/Proof_of_authority](https://en.wikipedia.org/wiki/Proof_of_authority)
  </details>
