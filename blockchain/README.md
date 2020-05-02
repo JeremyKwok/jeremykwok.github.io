@@ -58,3 +58,9 @@ eth.getBalance(eth.accounts[0])
   Read more from [here](https://medium.com/hummingbot/finance-3-0-wiki-testnet-vs-mainnet-8ab5b78d93)
 </details>
 
+<details>
+  <summary>Proof of Authority?</summary>
+  
+    Proof of authority (PoA) is an algorithm used with blockchains that delivers comparatively fast transactions through a consensus mechanism based on identity as a stake.
+    [https://en.wikipedia.org/wiki/Proof_of_authority](https://en.wikipedia.org/wiki/Proof_of_authority)
+ </details>
